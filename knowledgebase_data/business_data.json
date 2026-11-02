@@ -1,0 +1,25 @@
+{
+  "business_name": "Markevian",
+  "services": [
+    "AI-powered client acquisition",
+    "Marketing automation"
+  ],
+  "target_market": "India",
+  "target_industries": [
+    "Social Media Marketing Agencies",
+    "Digital Marketing Agencies"
+  ],
+  "ideal_customer": {
+    "has_existing_clients": true,
+    "has_an_active_business": true
+  },
+  "goals": [
+    "Find relevant prospects",
+    "Prepare personalized outreach"
+  ]
+}
+
+
+
+
+
