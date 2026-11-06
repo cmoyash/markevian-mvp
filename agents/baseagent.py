@@ -8,4 +8,4 @@ class BaseAgent(ABC):
     
     @abstractmethod
     def build_prompt(self):
-        pass
+        pass 

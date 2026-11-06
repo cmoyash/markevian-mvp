@@ -1,25 +1,32 @@
-from pathlib import Path
-from models.buisness_profile import BusinessProfile
-from typing import Any
-import json
+domains = ["facebook.com", "abcagency.com", "instagram.in", "webfx.io"]
 
 
-def load_business_config(file: Any) -> dict:
-    file_path = Path(file)
+# for d in domains:
+#     print("facebook" in d)
 
-    if not file_path.exists():
-        raise FileNotFoundError(f"file not found: {file_path}")
 
-    with open(file_path , "r" , encoding="utf-8") as f:
-        data = json.load(f)
-    return data
+# results = [False, False, True]
+# results2 = [False, False, False]
+# results3 = [True, True, True]
+# results4 = [False, True, True]
 
 
 
 
-data = load_business_config("knowledgebase_data/business_data.json")
+# p = "facebook.com"
+# bad_list = ["facebook", "instagram", "linkedin"]
 
-business_profile = BusinessProfile(**data)
+# checks = []
+# for bad in bad_list:
+#     checks.append(bad in p)
 
-print(business_profile.business_name)
-print(business_profile.target_industries[0])
+
+
+
+
+p = "abcagency.com"
+bad_list = ["facebook", "instagram", "linkedin"]
+
+
+result  = any(bad in p for bad in bad_list)
+print(result)

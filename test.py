@@ -8,7 +8,7 @@ from services.gemini_services import GeminiService
 
 
 knowledge = KnowledgeBase(profile=BusinessProfile)
-data = knowledge.load_business_config("knowledgebase_data/business_data_2.json")
+data = knowledge.load_business_config("knowledgebase_data/business_data.json")
 profile = BusinessProfile(**data)
 gemini = GeminiService()
 strategy_agent = LeadStrategyAgent(gemini=gemini , profile=profile)

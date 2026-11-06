@@ -2,3 +2,5 @@ requests
 google-genai
 dotenv
 pydantic
+ddgs
+beautifulsoup4
