@@ -15,4 +15,4 @@ class Config:
             raise ValueError(
                 f"GEMINI API KEY NOT FOUND"
             )
-        
+

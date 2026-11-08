@@ -1,0 +1,129 @@
+{
+  "business_overview": {
+    "description": "Social Panga is an award-winning creative marketing and advertising agency that ideates, curates, and executes marketing strategies to integrate brands with the digital world.",
+    "evidence": [
+      "Social Panga: Best Digital Marketing Agency in India",
+      "We are an award-winning creative marketing and advertising agency. We ideate, curate and execute marketing strategies to engage with our clients’ intended audience, all while integrating their brand with the digital world."
+    ]
+  },
+  "services_offered": [
+    {
+      "service": "Creative & Digital Strategy",
+      "evidence": [
+        "Creative & Digital Strategy",
+        "We marinate strategies that best suit your business objectives by sprinkling the perfect salts of creativity and research."
+      ]
+    },
+    {
+      "service": "Media Planning & Buying",
+      "evidence": [
+        "Media Planning & Buying",
+        "We help you profitably define your marketing goals with our expertisein media planning and buying."
+      ]
+    },
+    {
+      "service": "Analytics & SEO",
+      "evidence": [
+        "Analytics & SEO",
+        "The P in Panga stands for performance and our SEO and Analytics team delivers it with appropriate insights that have the ability to transform your business."
+      ]
+    },
+    {
+      "service": "Branding & Marketing Communications",
+      "evidence": [
+        "Branding & Marketing Communications",
+        "When we say we give your brand a VOICE we mean – V : Versatile, O : Omnipotent, I : Impressional, C : Captivating, E : Empowered way of branding andcommunicating your business."
+      ]
+    },
+    {
+      "service": "Mobile & Website UI/UX",
+      "evidence": [
+        "Mobile & Website UI/UX",
+        "From the essential to the ornate, everything is taken care of completely, to offer a user-friendly interface and experience to your consumers."
+      ]
+    },
+    {
+      "service": "Influencer Management",
+      "evidence": [
+        "Influencer Management",
+        "To make your idea come to life, we dive into a pool of talent and find the right influencer(s) for the task in hand."
+      ]
+    },
+    {
+      "service": "Video Production",
+      "evidence": [
+        "Video Production",
+        "A perfect storyline is incomplete without the right set of shots taken from the perfect angles."
+      ]
+    },
+    {
+      "service": "Consulting Services",
+      "evidence": [
+        "Consulting Services",
+        "We do a thorough research and integrate industry insights with internet trends to give you the best advice."
+      ]
+    },
+    {
+      "service": "Technology",
+      "evidence": [
+        "Technology",
+        "Only unrealistic aspect of us using technology is the experience we create for you outside our daily lives using the best of tech and tools."
+      ]
+    }
+  ],
+  "target_customers": {
+    "description": "Businesses and brands looking to scale their digital presence, engage with their intended audience, and achieve growth through comprehensive marketing solutions.",
+    "evidence": [
+      "We help businesses reach their full potential by creating a brand identity that is authentic and reflective of them.",
+      "We would be glad to discuss your business targets and how we can achieve them through our digital marketing services in Bangalore, Delhi and Mumbai."
+    ]
+  },
+  "contact_channels": {
+    "emails": [
+      {
+        "email_name": "General Enquiries",
+        "email": "coffee@socialpanga.com"
+      },
+      {
+        "email_name": "Business Enquiries",
+        "email": "hello@socialpanga.com"
+      },
+      {
+        "email_name": "Career Opportunities",
+        "email": "coffee@socialpanga.com"
+      }
+    ],
+    "office_locations": [
+      {
+        "city": "Bengaluru",
+        "address": "No. 9, 100 ft. Road, 17th A Main Road, 2nd & 3rd Floor, above Nature’s Basket, 5th Block, Koramangala, Bengaluru, Karnataka 560095"
+      },
+      {
+        "city": "Mumbai",
+        "address": "Modi House, 2nd Floor, Off Link Rd, Near Fun Republic, Andheri West, Mumbai, Maharashtra 400053"
+      },
+      {
+        "city": "Navi Mumbai",
+        "address": "Technocity Plot No. X-4/1 and X, Logicserve Digital Pvt. Ltd, 4/2, Mahape Road, Reliance Corporate Park, MIDC Industrial Area, Ghansoli, Navi Mumbai, Maharashtra 400710"
+      },
+      {
+        "city": "Gurugram",
+        "address": "Social Panga, 2nd Floor, Orchid Centre, Golf Course Rd, Sector 53, Gurugram, Haryana 122011"
+      },
+      {
+        "city": "Dubai",
+        "address": "Office 105, Building 1 - Dubai Media City - Dubai - UnitedArab Emirates"
+      }
+    ],
+    "evidence": [
+      "Or write to us at coffee@socialpanga.com",
+      "Business Enquiries hello@socialpanga.com",
+      "Career Opportunities coffee@socialpanga.com",
+      "BLR No. 9, 100 ft. Road, 17th A Main Road, 2nd & 3rd Floor, above Nature’s Basket, 5th Block, Koramangala, Bengaluru, Karnataka 560095",
+      "BOM Modi House, 2nd Floor, Off Link Rd, Near Fun Republic, Andheri West, Mumbai, Maharashtra 400053",
+      "NVM Technocity Plot No. X-4/1 and X, Logicserve Digital Pvt. Ltd, 4/2, Mahape Road, Reliance Corporate Park, MIDC Industrial Area, Ghansoli, Navi Mumbai, Maharashtra 400710",
+      "DEL Social Panga, 2nd Floor, Orchid Centre, Golf Course Rd, Sector 53, Gurugram, Haryana 122011",
+      "UAE Dubai. Office 105, Building 1 - Dubai Media City - Dubai - United Arab Emirate"
+    ]
+  }
+}

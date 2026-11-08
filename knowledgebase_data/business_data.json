@@ -9,6 +9,24 @@
     "Social Media Marketing Agencies",
     "Digital Marketing Agencies"
   ],
+  "industry_keywords": [
+    "marketing",
+    "digital",
+    "agency",
+    "seo",
+    "social media",
+    "advertising"
+  ],
+  "target_cities": [
+    "bengaluru",
+    "mumbai",
+    "delhi",
+    "gurugram",
+    "navi mumbai",
+    "pune",
+    "hyderabad",
+    "chennai"
+  ],
   "ideal_customer": {
     "has_existing_clients": true,
     "has_an_active_business": true
@@ -18,8 +36,4 @@
     "Prepare personalized outreach"
   ]
 }
-
-
-
-
 
